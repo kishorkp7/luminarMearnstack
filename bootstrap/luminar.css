@@ -1,0 +1,10 @@
+.navibar{
+    background-color: darkslateblue;
+    color: floralwhite;
+    height: 100px;
+}
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

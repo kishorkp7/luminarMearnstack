@@ -1,0 +1,14 @@
+div{
+    width: 40%;
+    height: 20%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: royalblue;
+    margin-left: 200px;
+    padding-left: 10%;
+
+
+}
+#btm{
+    margin-top: 400px;
+}

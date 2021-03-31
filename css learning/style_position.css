@@ -1,0 +1,51 @@
+.main{
+width: 100%;
+height: 100 vh;
+
+position: absolute;
+left: 10%;
+
+}
+h1{
+    background-color: chartreuse;
+text-align: center;
+font-family: cursive;
+font-style: italic;
+
+}
+.partone,.parttwo,.partthree,.partfour{
+
+    position: absolute;
+    top: 30%;
+    width: 10%;
+    height: 400px;
+
+}
+.partone{
+    
+    background-color: darkmagenta;
+    position: absolute;
+    left: 10%;
+    top: 20%;
+}
+
+.parttwo{
+    background-color: darkred;
+    position: absolute;
+    left:25%;
+    top: 20%;
+}
+
+.partthree{
+    background-color: goldenrod;
+    position: absolute;
+    left: 40%;
+    top: 20%;
+}
+.partfour{
+    
+    background-color: olive;
+    position: absolute;
+    left: 55%;
+    top: 20%;
+}
